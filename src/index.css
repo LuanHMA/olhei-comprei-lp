@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+@keyframes scaleIn {
+    0% {
+        transform: scale(.9);
+    }
+
+    50% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(.9);
+    }
+}
+
+@keyframes slideIn {
+    0% {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.animate-scale {
+    animation: scaleIn 1.9s ease-out infinite;
+}
+.animate-slide-in {
+    animation: slideIn 0.3s ease-out;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
