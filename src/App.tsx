@@ -115,9 +115,9 @@ export default function App() {
           <p className="text-xs text-neutral-500 text-center">👆 Clique para garantir sua vaga</p>
         </div>
 
-        <div className="flex flex-col items-center border border-neutral-300 py-5 px-4 rounded-xl gap-4 w-full">
-          <h2 className="uppercase text-neutral-800 font-semibold">✨ O que você vai receber:</h2>
-          <ul className="flex flex-col items-center gap-2">
+        <div className="flex flex-col items-center  border border-neutral-300 py-5 px-4 rounded-xl gap-4 w-full">
+          <h2 className="uppercase text-neutral-800 mx-auto font-semibold w-64">✨ O que você vai receber:</h2>
+          <ul className="flex flex-col items-start gap-2 w-64 mx-auto ">
             <li>
               <span className="flex items-center justify-center text-neutral-900 text-sm text-center">🎯 Promoções exclusivas diárias.</span>
             </li>
