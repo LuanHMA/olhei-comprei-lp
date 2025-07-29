@@ -77,7 +77,7 @@ export default function App() {
         </h1>
       </header>
 
-      <main className="w-full max-w-md mx-auto px-4 py-10 flex flex-col items-center gap-6">
+      <main className="w-full max-w-md mx-auto px-4 pt-5 pb-10 flex flex-col items-center gap-6">
         <div className="flex flex-col items-center gap-3">
           <img
             src={Logo}
