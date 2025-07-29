@@ -93,7 +93,7 @@ export default function App() {
           </p>
         </div>
 
-        <a href="" target="_blank" className="bg-neutral-800 text-white font-semibold rounded-3xl py-3 px-6 text-center text-sm flex items-center gap-2">
+        <a href="https://chat.whatsapp.com/EnFKpPQLoAvHrYJKPN8yqH?mode=ac_t" target="_blank" className="bg-neutral-800 text-white font-semibold rounded-3xl py-3 px-6 text-center text-sm flex items-center gap-2">
           <Users size={18} />
           GRUPO VIP VAGAS LIMITADAS!
         </a>
@@ -109,7 +109,7 @@ export default function App() {
         </div>
 
         <div className="flex flex-col items-center gap-2 w-full">
-          <a href="" target="_blank" className="bg-gradient-to-r bg-green-500 to-green-600 text-white font-bold rounded-3xl py-4 px-6 text-center w-full max-w-sm animate-scale hover:bg-none hover:bg-green-600 cursor-pointer">
+          <a href="https://chat.whatsapp.com/EnFKpPQLoAvHrYJKPN8yqH?mode=ac_t" target="_blank" className="bg-gradient-to-r bg-green-500 to-green-600 text-white font-bold rounded-3xl py-4 px-6 text-center w-full max-w-sm animate-scale hover:bg-none hover:bg-green-600 cursor-pointer">
             ENTRAR NO GRUPO VIP AGORA
           </a>
           <p className="text-xs text-neutral-500 text-center">👆 Clique para garantir sua vaga</p>
